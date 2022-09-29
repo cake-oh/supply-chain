@@ -2,7 +2,7 @@
 
 
 ``` mermaid
-flowchart TD
+graph TD
 
 id1(OG Data: \nGlobal Fishing Watch data) --> id2(Data Manipulation)
 id2(Data Manipulation) --> id3(Spatial Analyses)
