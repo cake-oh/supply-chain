@@ -1,7 +1,7 @@
 [Mermaid](https://mermaid-js.github.io/mermaid/#/)
 
 
-```
+``` mermaid
 flowchart LR 
 
     A-->B
