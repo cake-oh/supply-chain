@@ -4,7 +4,7 @@
 ``` mermaid
 flowchart LR 
 
-id1((OG Data: Global Fishing Watch data)) -->B
+id1(OG Data: Global Fishing Watch data) --> id2(Data Manipulation)
     B-->C
     C-->D
     D-->E
