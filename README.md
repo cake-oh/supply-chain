@@ -18,6 +18,6 @@ The derived locations from Step 1 will be used to create Harvest-to-Landing Netw
 *Q's to resolve:* Any other network metrics to include?
 
 ## Step 3
-These networks will be enhanced with additional data characterizing the flag nations (nodes) represented in the fishing fleets. Variables like national GDP, seafood demand, etc.
+These networks will be enhanced with additional data characterizing the flag nations (nodes) represented in the fishing fleets. National variables like GDP, seafood demand, etc.
 
-*Q's to resolve:* What are other interesting variables?
+*Q's to resolve:* What are other interesting variables? Is it possible to run an analysis including "general" variables that are not country-specific, such as sea surface temperature?
