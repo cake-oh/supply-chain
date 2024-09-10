@@ -1,4 +1,6 @@
 # Supply Chain Analysis
+[![DOI](https://zenodo.org/badge/542230182.svg)](https://zenodo.org/doi/10.5281/zenodo.13742943)
+
 
 This repository stores data and code for an analysis of fishing vessel movements. The driving question is *"How are harvesting and landing sites in the Western Central Pacific Ocean changing, and what are the drivers?"*
 
